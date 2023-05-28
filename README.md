@@ -1,1 +1,1 @@
-# SVD-image-compression
+# SVD algorithms and examples
