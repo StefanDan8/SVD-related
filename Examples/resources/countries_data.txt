@@ -1,0 +1,24 @@
+[title] Countries of the World
+[note]  2004 data
+
+[columns]        population  "average income"   area
+"United States"     292.6         38600       9809431
+"China"            1309            4910       9556100
+"Japan"             127.8         27400        377801
+"India"            1084            2850       3203975
+"Germany"            82.75        26600        356955
+"United Kingdom"     59.77        26700        244101
+"France"             60.09        26500        547026
+"Italy"              57.24        26500        301277
+"Brazil"            183.3          7820       8511996
+"Russia"            144.2          8620      17075400
+"Mexico"            105.8          9170       1967183
+"Canada"             32.09        29500       9970610
+"Spain"              40.97        22400        504750
+"South Korea"        48.02        18800         99016
+"Indonesia"         230.9          3090       1948732
+"Australia"          20.07        27900       7682300
+"South Africa"       45.17        12200       1220662
+"Turkey"             71.54         6800        779452
+"Netherlands"        16.32        29800         41640
+"Argentina"          38.64        12300       2780400
